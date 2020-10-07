@@ -1,7 +1,7 @@
 # PINK CODE
 ## ELC Virtual Hackaton
 
-
+To try the demo, check google colab notebook.
 
 ### Your Project Members
 
