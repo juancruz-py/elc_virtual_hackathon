@@ -1,7 +1,6 @@
 # PINK CODE
-## ELC Virtual Hackaton
 
-<img width="658" alt="Screen Shot 2020-12-23 at 4 27 58 PM" src="https://user-images.githubusercontent.com/51844944/103041408-ead2c280-453b-11eb-8b48-57af72ffb7cb.png">
+<img width="720" alt="Screen Shot 2020-12-23 at 4 27 58 PM" src="https://user-images.githubusercontent.com/51844944/103041408-ead2c280-453b-11eb-8b48-57af72ffb7cb.png">
 
 
 
