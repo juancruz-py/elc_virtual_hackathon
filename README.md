@@ -1,6 +1,20 @@
 # PINK CODE
 ## ELC Virtual Hackaton
 
+    <head>
+        <meta charset="utf-8" />
+        <title>Pink Code</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
+    </head>
+    <body id="page-top">
+        <header>
+            <img src="images/LOGO.PNG" class="right" width="200">
+            <img src="images/ELC_LOGO.PNG" class="left" width="400" >
+
+
+
+
 To try the demo, check google colab notebook.
 
 ### Your Project Members
